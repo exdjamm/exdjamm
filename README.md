@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Sou **Êxodo Melo**, atualmente sou estudante de Engenharia da Computação na FACOM-UFMS.
+
+Meu principal interesse atualmente é analise de algoritmos e performance.
+Tenho interesse em sistemas de baixo nivel e comunicação a nivel hardware-SO, procuro me aprofundar em infraestrura computacional.
+
+Tenho conhecimento de HTML, CSS, JS, React.js, Vue.js, Firebase, PHP, Java, C, Python, Node.js, React Native entre outros.
+
+Ja explorei um pouco com CI/CD com meu TCC pelo IFMS-CG, encontrado em: [IFBank](https://github.com/IFBank). (PS: A versão no github não esta completa)
+
 <!--
 **exdjamm/exdjamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
