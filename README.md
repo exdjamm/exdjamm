@@ -9,6 +9,8 @@ Tenho conhecimento de HTML, CSS, JS, React.js, Vue.js, Firebase, PHP, Java (Nati
 
 Ja explorei um pouco com CI/CD com meu TCC pelo IFMS-CG, encontrado em: [IFBank](https://github.com/IFBank). (PS: A versão no github não esta completa).
 Tambem explorei automações via web-scrap durante a pandemia para download de arquivos do AVA de minha instituição.
+
+https://exdjamm.github.io/(https://exdjamm.github.io/)
 <!--
 **exdjamm/exdjamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
